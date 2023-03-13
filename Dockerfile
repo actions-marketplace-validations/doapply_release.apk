@@ -1,8 +1,8 @@
 FROM debian:10.1
 
 LABEL "version"="0.0.1"
-LABEL "com.github.actions.name"="Release Ubuntu,Windows,Mac,Android,Web Publisher"
-LABEL "com.github.actions.description"="Build & Publish Release All in on Github"
+LABEL "com.github.actions.name"="Release Apk Publisher"
+LABEL "com.github.actions.description"="Build & Publish Release Apk in on Github"
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="red"
 
